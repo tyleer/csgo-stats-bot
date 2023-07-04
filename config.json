@@ -1,7 +1,7 @@
 {
     "token": "token",
-    "guildId": "sunucu idsi",
-    "server_ip": "csgo sunucu ipniz",
-    "playerChannel": "oyuncular kanalı idsi",
+    "guildId": "server id",
+    "server_ip": "csgo server ip",
+    "playerChannel": "oyuncu sayısı kanal id",
     "server_port": "27015"
 }
